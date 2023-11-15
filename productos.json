@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Chocolate 1",
+		"description": "Chips de chocolate",
+		"price": 1200,
+		"thumbnail": "🍫",
+		"code": "a1",
+		"stock": 10,
+		"id": 1
+	},
+	{
+		"title": "Chocolate 2",
+		"description": "Chips de chocolate",
+		"price": 1200,
+		"thumbnail": "🍫",
+		"code": "a2",
+		"stock": 10,
+		"id": 2
+	},
+	{
+		"title": "Chocolate 4",
+		"description": "Chips de chocolate",
+		"price": 1200,
+		"thumbnail": "🍫",
+		"code": "a4",
+		"stock": 10,
+		"id": 3
+	}
+]
